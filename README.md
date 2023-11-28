@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently working on pokédex app where I'm using React + Vite
+- If you want to know more about me or what I can do send me an Email or contact me via one of my socials
+- I'm currently having a little recap of all the subjects I have been learning through the Front-end Developer course I'm in now
+
 <!--
 **AndereX-dev/AndereX-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

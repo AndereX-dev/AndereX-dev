@@ -1,6 +1,6 @@
 ### Hei sann Andreas Her, ny og fersk Front-end developer 👋
 #### Front-end developer
-Jeg har egentlig vært interessert i Datamaskiner siden jeg var liten, og siden jeg har blitt elder med tiden har interessen blitt enda mer variert. Fra hvordan et system er bygd opp, til hvordan og hva det skal brukes til. For meg selv har jeg vært borti å bygge opp et datasystem fra bunn til funskjonell standard, ved å gjøre klar PC og koble den opp mot en server. Men nå holder jeg på med å bygge opp litt forskjellige nettsider ved det jeg har lært. Jeg er alltid opp for å lære noe nytt slik at jeg legge det inn i arsenalet, og bli enda bedre.
+Jeg har egentlig vært interessert i Datamaskiner siden jeg var liten, og siden jeg har blitt elder med tiden har interessen blitt enda mer variert. Fra hvordan et system er bygd opp, til hvordan og hva det skal brukes til. For meg selv har jeg vært borti å bygge opp et datasystem fra bunn til funskjonell standard, ved å gjøre klar PC og koble den opp mot en server. Men nå holder jeg på med å bygge opp litt forskjellige nettsider ved det jeg har lært. Jeg er alltid opp for å lære noe nytt slik at jeg kan legge det inn i arsenalet, og bli enda bedre.
 
 Når det kommer til prosjekter så har jeg en lidenskap at alt skal være om noe jeg er interessert i, og at man alltid skal ha det gøyt under prosessen.
 

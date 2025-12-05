@@ -6,8 +6,8 @@ Når det kommer til prosjekter så har jeg en lidenskap at alt skal være om noe
 
 Skills: FIGMA / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on For øyeblikket holder jeg på med en Pokédex app ved å bruke REACT og VITE 
-- 🌱 I’m currently learning Jeg holder på med å gå gjennom alt jeg har lært slik at jeg kan bli en enda bedre Front-end dev 
+- 🔭 I’m currently working on: For øyeblikket holder jeg på med en Pokédex app ved å bruke REACT og VITE 
+- 🌱 I’m currently learning: Jeg holder på med å gå gjennom alt jeg har lært slik at jeg kan bli en enda bedre Front-end dev 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndereX-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AndreasOsdal)  

@@ -6,7 +6,7 @@ Når det kommer til prosjekter så har jeg en lidenskap at alt skal være om noe
 
 Skills: FIGMA / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on: For øyeblikket holder jeg på med en Pokédex app ved å bruke REACT og VITE 
+- 🔭 I’m currently working on: For øyeblikket holder jeg på med å lage Portfolio nettside, hvor alle prosjektene mine kan bli sett
 - 🌱 I’m currently learning: Jeg holder på med å gå gjennom alt jeg har lært slik at jeg kan bli en enda bedre Front-end dev 
 
 
